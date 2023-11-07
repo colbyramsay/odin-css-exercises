@@ -1,3 +1,9 @@
-.odd-numbers {
+ .odd-numbers {
     background-color: #ffb6c1;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
   }
+
+ #big-blue {
+    color: #0000ff;
+    font-size: 36px;
+ } 
