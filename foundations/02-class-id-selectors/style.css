@@ -7,3 +7,13 @@
     color: #0000ff;
     font-size: 36px;
  } 
+
+ .medium-size {
+    font-size: 24px;
+ }
+
+ #medium-green {
+    background-color: #008000;
+    font-size: 24px;
+    font-weight: bold;
+ }
