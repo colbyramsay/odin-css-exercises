@@ -1,3 +1,7 @@
+* {
+  border: 1px solid salmon;
+}
+
 body {
   background: #eee;
   font-family: sans-serif;
@@ -6,12 +10,14 @@ body {
 .card {
   width: 400px;
   background: #fff;
+  padding: 8px;
   margin: 16px auto;
-  padding: 100px;
 }
 
 .title {
   background: #e3f4ff;
+  font-size: 16px;
+  margin: 0px;
 }
 
 .content {
