@@ -17,6 +17,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  
 }
 
 .modal {
@@ -25,12 +26,14 @@ body {
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
   padding: 8px;
+  display: flex;
 }
 
 .header {
   font-size: larger;
   font-weight: bold;
   display: flex;
+  justify-content: space-between;
 }
 
 .icon {
@@ -44,6 +47,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-shrink: 0;
 }
 
 .close-button {
