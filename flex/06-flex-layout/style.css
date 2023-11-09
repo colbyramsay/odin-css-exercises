@@ -38,4 +38,5 @@ ul {
 
 .header, .footer, ul {
   display: flex;
+  justify-content: space-between;
 }
