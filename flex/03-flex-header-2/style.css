@@ -22,6 +22,16 @@ body {
   gap: 16px;
 }
 
+.left-elements {
+  display: flex;
+  align-items: center;
+}
+
+.right-elements {
+  display: flex;
+  align-items: center;
+}
+
 .profile-image {
   background: rebeccapurple;
   box-shadow: inset 2px 2px 4px rgba(0,0,0,.5);
