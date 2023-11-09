@@ -27,12 +27,11 @@ img {
   gap: 52px;
 }
 
-/*
+
 .one, .two , .three, .four {
-  display: flex;
-  flex-direction: column;
+  max-width: 200px;
 }
-*/
+
 
 .title {
   font-size: 36px;
