@@ -22,7 +22,7 @@ img {
 
 .items {
   display: flex;
-  border: 1px solid pink;
+  /* border: 1px solid pink; */
   text-align: center;
   gap: 52px;
 }
@@ -30,7 +30,7 @@ img {
 
 .one, .two , .three, .four {
   max-width: 200px;
-  border: 1px solid lightblue;
+  /* border: 1px solid lightblue; */
 }
 
 
