@@ -23,7 +23,16 @@ img {
 .items {
   display: flex;
   border: 1px solid pink;
+  text-align: center;
+  gap: 52px;
 }
+
+/*
+.one, .two , .three, .four {
+  display: flex;
+  flex-direction: column;
+}
+*/
 
 .title {
   font-size: 36px;
