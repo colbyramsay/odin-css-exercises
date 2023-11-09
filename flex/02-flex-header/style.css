@@ -6,15 +6,6 @@
   align-items: center;
 }
 
-.left-links {
-  border: 1px solid red;
-
-}
-
-.right-links {
-  border: 1px solid blue;
-}
-
 .logo {
   font-size: 48px;
   font-weight: 900;
@@ -26,6 +17,7 @@
 ul {
   /* this removes the dots on the list items*/
   list-style-type: none;
+  border: 1px solid green;
 }
 
 a {
