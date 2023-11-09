@@ -30,6 +30,7 @@ img {
 
 .one, .two , .three, .four {
   max-width: 200px;
+  border: 1px solid lightblue;
 }
 
 
