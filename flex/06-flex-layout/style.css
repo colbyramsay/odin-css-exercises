@@ -48,6 +48,10 @@ ul {
   justify-content: space-between;
 }
 
+.footer {
+  background-color: #eeeeee;
+}
+
 a {
   text-decoration: none;
   color: black;
