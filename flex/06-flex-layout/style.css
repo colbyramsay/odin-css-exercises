@@ -23,6 +23,8 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
+  margin-inline: 8px;
+  padding: 8px 20px;
 }
 
 input {
