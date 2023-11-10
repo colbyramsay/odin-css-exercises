@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
-* {
+/* {
   border: 1px solid pink;
-}
+}*/
 
 body {
   height: 100vh;
@@ -42,8 +42,8 @@ ul {
 }
 
 .header, .footer, ul {
-  gap: 8px;
-  padding: 4px;
+  gap: 16px;
+  padding: 4px 8px;
   display: flex;
   justify-content: space-between;
 }
@@ -56,6 +56,10 @@ a {
   text-decoration: none;
   color: black;
   font-size: smaller;
+}
+
+a:hover {
+  color: pink;
 }
 
 .content {
