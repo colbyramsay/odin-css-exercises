@@ -32,7 +32,6 @@ body {
   width: 300px;
   background: royalblue;
   box-sizing: border-box;
-
   flex-shrink: 0;
 }
 
@@ -42,12 +41,14 @@ body {
   border-radius: 4px;
   width: 250px;
   padding: 10px;
-  margin: 10px;
+  margin: 0px;
 }
 
 .cards {
   display: flex;
   flex-wrap: wrap;
+  padding: 32px;
+  gap: 24px;
 }
 
 .container {
