@@ -34,6 +34,7 @@ body {
   box-sizing: border-box;
   flex-shrink: 0;
   font-size: 24px;
+  padding: 16px;
 }
 
 .card {
@@ -60,8 +61,12 @@ ul.no-bullets {
   list-style-type: none; /* Remove bullets */
   padding: 0; /* Remove padding */
   margin: 0; /* Remove margins */
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
 }
 
 a {
   text-decoration: none;
+  color: white;
 }
